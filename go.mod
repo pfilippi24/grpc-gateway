@@ -1,6 +1,6 @@
 module github.com/pfilippi24/grpc-gateway
 
-go 1.14
+go 1.16
 
 require (
 	github.com/antihax/optional v0.0.0-20180407024304-ca021399b1a6
