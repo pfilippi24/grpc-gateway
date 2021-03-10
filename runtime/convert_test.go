@@ -9,7 +9,7 @@ import (
 	"github.com/golang/protobuf/proto"
 	"github.com/golang/protobuf/ptypes/duration"
 	"github.com/golang/protobuf/ptypes/timestamp"
-	"github.com/grpc-ecosystem/grpc-gateway/runtime"
+	"github.com/pfilippi24/grpc-gateway/runtime"
 )
 
 func TestConvertTimestamp(t *testing.T) {

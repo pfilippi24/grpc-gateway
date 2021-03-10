@@ -6,7 +6,7 @@ import (
 
 	"github.com/golang/protobuf/proto"
 	descriptor "github.com/golang/protobuf/protoc-gen-go/descriptor"
-	"github.com/StK88/grpc-gateway/internal/httprule"
+	"github.com/pfilippi24/grpc-gateway/internal/httprule"
 )
 
 func compilePath(t *testing.T, path string) httprule.Template {

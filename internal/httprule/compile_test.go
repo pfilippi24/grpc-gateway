@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/grpc-ecosystem/grpc-gateway/utilities"
+	"github.com/pfilippi24/grpc-gateway/utilities"
 )
 
 const (

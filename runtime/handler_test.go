@@ -9,9 +9,9 @@ import (
 	"testing"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/grpc-ecosystem/grpc-gateway/internal"
-	"github.com/grpc-ecosystem/grpc-gateway/runtime"
-	pb "github.com/grpc-ecosystem/grpc-gateway/runtime/internal/examplepb"
+	"github.com/pfilippi24/grpc-gateway/internal"
+	"github.com/pfilippi24/grpc-gateway/runtime"
+	pb "github.com/pfilippi24/grpc-gateway/runtime/internal/examplepb"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"

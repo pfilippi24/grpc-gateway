@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/grpc-ecosystem/grpc-gateway/examples/internal/proto/examplepb"
-	gwruntime "github.com/grpc-ecosystem/grpc-gateway/runtime"
+	"github.com/pfilippi24/grpc-gateway/examples/internal/proto/examplepb"
+	gwruntime "github.com/pfilippi24/grpc-gateway/runtime"
 	"google.golang.org/grpc"
 )
 
